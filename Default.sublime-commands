@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "paste without blank lines",
+		"command": "clipboard_delete_blank_lines_paste"
+	}
+]
