@@ -1,0 +1,11 @@
+[
+    {
+        "id": "edit","children":
+        [
+            {
+                "caption": "Paste without blank lines",
+                "command": "clipboard_delete_blank_lines_paste"
+            }
+        ]
+    }
+]
