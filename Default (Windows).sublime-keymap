@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+alt+shift+l"], "command": "clipboard_delete_blank_lines_paste" }
+]
