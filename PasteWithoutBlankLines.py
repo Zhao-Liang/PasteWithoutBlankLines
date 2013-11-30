@@ -2,7 +2,7 @@
 
 import sublime, sublime_plugin, re
 
-class ClipboardDeleteBlankLinesPasteCommand(sublime_plugin.TextCommand):
+class PasteWithoutBlankLinesCommand(sublime_plugin.TextCommand):
 	def run(self, edit):
 		s = sublime.get_clipboard()
 		line_ending = self.view.settings().get('default_line_ending')
