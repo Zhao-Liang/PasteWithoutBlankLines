@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+alt+shift+l"], "command": "paste_without_blank_lines" }
+]
