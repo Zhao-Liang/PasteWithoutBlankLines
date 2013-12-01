@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "Paste Without Blank Lines",
-      "description": "Delete all blank lines in clipboard,and paste.",
+      "description": "Del all blank lines in clipboard,and paste.",
       "author": "Zhao-Liang",
       "homepage": "https://github.com/Zhao-Liang/PasteWithoutBlankLines",
       "last_modified": "2013-05-19 13:09:00",
@@ -11,7 +11,7 @@
         "*": [
           {
             "version": "1.0.0",
-            "url": "https://nodeload.github.com/Zhao-Liang/PasteWithoutBlankLines/zip/tag"
+            "url": "https://nodeload.github.com/Zhao-Liang/PasteWithoutBlankLines/zip/1.0.0"
           }
         ]
       }
