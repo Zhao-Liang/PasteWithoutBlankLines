@@ -1,11 +1,11 @@
 PasteWithoutBlankLines
-======================
-
-free for st3:Delete blank lines of clipboard and paste.
-Useful for gathering and slim texts.
+=======================
+st3 plugin:Delete all blank lines in the clipboard, and then paste.
 
 Usage:
-   Press [Ctrl+Alt+Shift+L].
+
+   Press `Ctrl+Alt+Shift+L`.
 
 Author: Zhao-Liang(theforever)
+
 eMail : thehappylover@gmail.com / imzl@live.com
